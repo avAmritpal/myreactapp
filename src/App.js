@@ -18,8 +18,6 @@ import SingleProduct from './components/SingleProduct.js';
 
 const App = () => {
 
-
-
   return (
 
     <div>
