@@ -17,7 +17,6 @@ import ConsumeCalculate from './components/consumeCalculate.js';
 import SingleProduct from './components/SingleProduct.js';
 
 const App = () => {
-
   return (
 
     <div>
